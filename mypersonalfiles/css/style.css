@@ -1,0 +1,117 @@
+body{
+  background-color: tan;
+}
+
+
+.text-heading {
+    color: black;
+    align: center;
+    font-family: Arial, Helvetica, sans-serif;
+  }
+  
+  .header{
+    background-color: darkseagreen;
+    padding: 15px;
+    text-align: center;
+  }
+  
+  .nav_menu {
+    overflow: hidden;
+    background-color: beige;
+    font-family: arial;
+  }
+  
+  .nav_menu a {
+    float: left;
+    display: block;
+    color: black;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+  
+  .nav_menu a:hover{
+    background-color: darkseagreen;
+    color: beige;
+  }
+  
+  .footer {
+    background-color: navy;
+    padding: 15px;
+    text-align: center;
+    overflow: hidden;
+    background-color: beige;
+    clear: left;
+  }
+  
+  .footer a {
+    display: inkline;
+    color: black;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-family: arial;
+  }
+
+  .footer a:hover{
+    background-color: darkseagreen;
+    color: beige;
+  }
+  
+  .columnA, .columnC {
+    float: left;
+    width: 25%;
+    padding: 30px;
+    text-align: justify;
+  }
+  
+  .columnB {
+    float: left;
+    width: 40%;
+    padding: 15px;
+    text-align: justify;
+    font-size: xx-large
+  }
+
+  .aboutPic{
+    float:left;
+  }
+
+  .aboutMeA{
+    border-style: solid;
+    font-size: large;
+  }
+
+  .aboutMeB{
+    font-size: large;
+    border-style: dotted;
+  }
+
+  .aboutMeC{
+    text-align: justify;
+    font-size: large;
+    border-style: dotted;
+  }
+
+  .blogPic{
+    float:right;
+  }
+
+  .blogA{
+    font-size:x-large;
+  }
+
+  .portfolioA{
+    font-size: large;
+  }
+  
+  .contactA{
+    font-size: xx-large;
+    text-align: center
+  }
+  h2{
+    text-align: center;
+  }
+ 
+  td{
+    background-color: linen;
+  }
